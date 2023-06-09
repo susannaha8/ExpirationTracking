@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ExpirationTracking
 //
-//  Created by Susannah Abrams on 6/9/23.
+//  Created by Susannah Abrams and Jonathan Socoy on 6/9/23.
 //
 
 import Cocoa
